@@ -1,0 +1,15 @@
+{
+  "name": "cobalt-loop-9732",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 4999,
+    "createdAt": "2026-09-11T14:53:02.552Z"
+  }
+}
